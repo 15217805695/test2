@@ -1,10 +1,2 @@
-111w
-<shdfsbh>
-ff</shdfsbh>
-ffw
-
-ss
-s
-sfsfs
-s
-sf
+<?php
+echo "aa";
