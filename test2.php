@@ -1,2 +1,2 @@
 <?php
-echo "abao ";
+echo "abao";
